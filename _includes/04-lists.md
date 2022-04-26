@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here is a list of my favorite things:
+- Reading Quran
+- Learning Quran
+- Walking on the beach
